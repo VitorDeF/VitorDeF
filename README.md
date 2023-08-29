@@ -1,4 +1,4 @@
-### Olá! Sou Vítor 👋
+### 👋 Olá! Sou Vítor
 
 Sou uma pessoa dedicada, com comprometimento, deferência e muita facilidade na aquisição de novos conhecimentos.
 Possuo um relacionamento interpessoal saudável e agradável.
