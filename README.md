@@ -5,6 +5,10 @@ Possuo um relacionamento interpessoal saudável e agradável.
 
 ##
 
+![Vitor's GitHub stats](https://github-readme-stats-kappa-rosy.vercel.app/api?username=VitorDeF&show_icons=true&theme=radical)
+
+##
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorDeF&theme=github_dark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorDeF&theme=github_dark)
 
