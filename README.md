@@ -3,16 +3,14 @@
 Sou uma pessoa dedicada, com comprometimento, deferência e muita facilidade na aquisição de novos conhecimentos.
 Possuo um relacionamento interpessoal saudável e agradável.
 
-##
+## 📊 Status
 
 ![Vitor's GitHub stats](https://github-readme-stats-kappa-rosy.vercel.app/api?username=VitorDeF&show_icons=true&theme=radical)
-
-##
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorDeF&theme=github_dark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorDeF&theme=github_dark)
 
-##
+## 💻 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
