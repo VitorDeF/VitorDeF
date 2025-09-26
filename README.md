@@ -3,7 +3,9 @@
 I'm a **dedicated and passionate Software Engineer** committed to building things that make a difference. My journey in tech is driven by a deep-seated curiosity and a love for continuous learning. I excel at quickly grasping new technologies and applying them to solve real-world problems. My dedication isn't just about writing code it's about understanding the "why" behind it and building software that is robust, scalable, and impactful.
 
 🌱 **I’m currently learning:** Advanced Golang development and Neo4j database.
+
 🤔 **Ask me about:** Anything of technology that you want, I am sure that I'll come with a answer at any time.
+
 🔥 **Fun fact:** I play a total of 6 instruments right now, but I'm [Add a personal touch, e.g., I can solve a Rubik's cube in under a minute!].
 
 ## 📊 Status
