@@ -6,7 +6,7 @@ I'm a **dedicated and passionate Software Engineer** committed to building thing
 
 🤔 **Ask me about:** Anything of technology that you want, I am sure that I'll come with a answer at any time.
 
-🔥 **Fun fact:** I play a total of 6 instruments right now.
+🔥 **Fun fact:** I am learning Kali Linux right now.
 
 ## 📊 Status
 
