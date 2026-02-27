@@ -2,7 +2,7 @@
 
 I'm a **dedicated and passionate Software Engineer** committed to building things that make a difference. My journey in tech is driven by a deep-seated curiosity and a love for continuous learning. I excel at quickly grasping new technologies and applying them to solve real-world problems. My dedication isn't just about writing code it's about understanding the "why" behind it and building software that is robust, scalable, and impactful.
 
-🌱 **I’m currently learning:** Advanced Java development and Angular database.
+🌱 **I’m currently learning:** Advanced Java development and Angular framework.
 
 🤔 **Ask me about:** Anything of technology that you want, I am sure that I'll come with a answer at any time.
 
